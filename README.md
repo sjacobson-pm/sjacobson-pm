@@ -5,9 +5,9 @@
   (e) seth.jacobson@plantemoran.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact(s):
-  - I'm a classicaly-trained, though lapsed, pianist
+  - I'm a classicaly-trained (though terribly under-practiced) pianist
   - My degree is in Game Development, which is really just computer science with a real-time graphics focus
-  - I love horror novels and movies, but I can't do horror games
+  - I love horror novels and movies, but I can't do horror games - too spooky!
 
 <!---
 sjacobson-pm/sjacobson-pm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
